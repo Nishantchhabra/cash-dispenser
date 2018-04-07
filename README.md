@@ -57,8 +57,8 @@ mvn clean install
 ```json
 {
     "amount" : 11000,
-	"debitnum" : "4561234561237894",
-	"pin" :"6057"
+    "debitnum" : "4561234561237894",
+    "pin" :"6057"
 }
 ```
 
