@@ -9,4 +9,5 @@ public class CashDispenserApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CashDispenserApplication.class, args);
 	}
+	
 }
